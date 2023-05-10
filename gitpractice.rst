@@ -12,5 +12,5 @@ GIT COURSE
     #. Version Control:
     #. Collaborate and teamwork
     #. Backup and Disaster Recovery
-- Uses, etc.
+- Using Method
 - Future
