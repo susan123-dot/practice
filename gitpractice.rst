@@ -18,3 +18,4 @@ GIT COURSE
         #. Git Administration
         #. Version Control
         #. Integration and Tooling, etc.
+- Branching
