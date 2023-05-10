@@ -20,3 +20,7 @@ GIT COURSE
     #. git push <remote> <branch>: Uploads local commits to a remote repository.
     #. git pull <remote> <branch>: Fetches and integrates remote changes into the current branch.
 - Future
+    - Git Engineer
+        #. Git Administration
+        #. Version Control
+        #. Integration and Tooling, etc.
