@@ -19,3 +19,10 @@ GIT COURSE
         #. Version Control
         #. Integration and Tooling, etc.
 - Branching
+    Process of creating new separate  file in repository
+    - Advantages
+        #. work on multiple copies of codebase
+        #. enable independent feature development
+        #. box fixes
+        #. experiments without affecting main repo 
+        #. can be merged in main file
